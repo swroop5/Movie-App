@@ -1,0 +1,42 @@
+{
+  "The Shawshank Redemption": {
+    "year": 1994,
+    "rating": 9.5
+  },
+  "The Room": {
+    "year": 2003,
+    "rating": 3.7
+  },
+  "The Godfather": {
+    "year": 1972,
+    "rating": 9.2
+  },
+  "Forrest Gump": {
+    "year": 1994,
+    "rating": 8.8
+  },
+  "Interstellar": {
+    "year": 2014,
+    "rating": 8.7
+  },
+  "Gladiator": {
+    "year": 2000,
+    "rating": 9.1
+  },
+  "The Matrix": {
+    "year": 1999,
+    "rating": 8.9
+  },
+  "Pulp Fiction": {
+    "year": 1988,
+    "rating": 7.9
+  },
+  "Avengers Endgame": {
+    "year": 2017,
+    "rating": 8.6
+  },
+  "Scream": {
+    "year": 1997,
+    "rating": 6.5
+  }
+}
