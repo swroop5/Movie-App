@@ -1,8 +1,12 @@
+import os
+
 import requests
+from dotenv import load_dotenv
 
 OMDB_MAIN_URL_LINK = ' http://www.omdbapi.com/?i=tt3896198&apikey='
 
-api_key = '1dc44a68'
+load_dotenv()
+api_key = os.getenv('API_KEY')
 
 movie_name = 'The Matrix'
 def get_json_response_using_api(movie_name):
